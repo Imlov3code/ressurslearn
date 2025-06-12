@@ -23,6 +23,20 @@ A **multi-language** React Native login screen with full **dark mode**, **keyboa
 ## 📸 Screenshots
 
 > Coming soon...
+Created and maintained by **Levis**  
+📧 levisdev@gmail.com  
+🌍 GitHub: [github.com/Imlov3code]
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute it for personal or commercial projects.
+
+---
+
+> © 2025 Levis — All rights reserved.
 
 ## 🚀 Getting Started
 
