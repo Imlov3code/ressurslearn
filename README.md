@@ -1,28 +1,38 @@
-RessursLearn Login UI
-A multi-language React Native login screen with full dark mode support, 
-keyboard handling, and platform-safe layout — perfect as a foundation for your cross-platform mobile app.
+# 📱 RessursLearn Login UI
 
-✨ Features
-📱 Full support for Android & iOS
-🌗 Dark mode-friendly design
-🌐 Built-in language switcher (English 🇺🇸 & Chinese 🇨🇳)
-🧠 i18next internationalization setup
-⌨️ Smart keyboard avoidance & scroll support
-✅ Based on SafeAreaView, compatible with notched devices
-🔒 Secure password input with masked field
+A **multi-language** React Native login screen with full **dark mode**, **keyboard-aware layout**, and **SafeAreaView** support — designed as a modern, clean starting point for cross-platform mobile apps.
 
-🖥️ Tech Stack
-React Native
-i18next
-react-i18next
-react-native-safe-area-context
+## ✨ Features
 
-📋 TODO / Roadmap
-Add form validation
-Connect to backend API
-Unit tests with Jest
-Support for RTL languages (e.g. Noregi)
+- ✅ **Android & iOS** support via Expo
+- 🌗 Fully **Dark Mode** compatible design
+- 🌐 Built-in **language switcher** (🇺🇸 English / 🇨🇳 中文)
+- 🌍 Powered by **i18next** and **react-i18next**
+- ⌨️ Smart **keyboard handling** with `KeyboardAvoidingView`
+- 🧩 Based on `SafeAreaView` for perfect fit on notched devices
+- 🔒 Secure **masked password input**
 
-📜 License
-MIT © Levis
+## 🛠️ Tech Stack
 
+- [React Native](https://reactnative.dev/)
+- [Expo Router](https://expo.dev/router)
+- [i18next](https://www.i18next.com/)
+- [react-i18next](https://react.i18next.com/)
+- [react-native-safe-area-context](https://github.com/th3rdwave/react-native-safe-area-context)
+
+## 📸 Screenshots
+
+> Coming soon...
+
+## 🚀 Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/your-username/ressurslearn-login.git
+cd ressurslearn-login
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npx expo start
