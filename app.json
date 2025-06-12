@@ -35,6 +35,9 @@
         }
       ]
     ],
+    "router": {
+      "origin": "file-system"
+    },
     "experiments": {
       "typedRoutes": true
     }
