@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+📱 RessursLearn Login UI
+A multi-language React Native login screen with full dark mode support, keyboard handling, and platform-safe layout — perfect as a foundation for your cross-platform mobile app.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+✨ Features
+📱 Full support for Android & iOS
 
-## Get started
+🌗 Dark mode-friendly design
 
-1. Install dependencies
+🌐 Built-in language switcher (English 🇺🇸 & Chinese 🇨🇳)
 
-   ```bash
-   npm install
-   ```
+🧠 i18next internationalization setup
 
-2. Start the app
+⌨️ Smart keyboard avoidance & scroll support
 
-   ```bash
-   npx expo start
-   ```
+✅ Based on SafeAreaView, compatible with notched devices
 
-In the output, you'll find options to open the app in a
+🔒 Secure password input with masked field
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+🖥️ Tech Stack
+React Native
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+i18next
 
-## Get a fresh project
+react-i18next
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+react-native-safe-area-context
